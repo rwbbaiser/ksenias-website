@@ -1,0 +1,21 @@
+.gallery {
+    margin: 5px;
+}
+
+.gallery img {
+    max-width: 800px;
+}
+
+.description {
+    text-align: center;
+}
+
+.img-1 {
+    height: 500px;
+    width: 600px;
+}
+
+.img-2 {
+    height: 500px;
+    width: 600px;
+}
